@@ -1,2 +1,3 @@
-# logmap-ml-melt
-LogMap-ML packaging for the MELT platform 
+# LogMap-ML interface for the MELT platform
+
+
